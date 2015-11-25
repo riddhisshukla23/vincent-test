@@ -5,3 +5,5 @@ if($allow_cash_on_delivery)
 {
 	echo 'WoohoO!';
 }
+
+echo "Done, COD Finished."
