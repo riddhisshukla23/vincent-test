@@ -1,3 +1,7 @@
 This is my first page, I hope you like it.
 
+<quick fix!!>
+
 Version 2 - this is getting much better!
+
+include('./page');
