@@ -1,4 +1,5 @@
 <?php
+$version = 22;
 $allow_cash_on_delivery = true;
 
 if($allow_cash_on_delivery)
